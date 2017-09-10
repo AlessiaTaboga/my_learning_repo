@@ -1,0 +1,7 @@
+weather,temperature,humidity,play
+sunny,hot,humid,yes
+sunny,hot,humid,no
+sunny,mild,humid,no
+rainy,mild,dry,no
+rainy,cold,dry,yes
+clear,cold,dry,yes
